@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hoodlum Sound
+## Introduction
+This organization is a place for me to work with other creative people and to make cool things for the world to see. 
 
 <!--
 
