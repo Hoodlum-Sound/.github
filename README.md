@@ -1,5 +1,5 @@
 <div align="center">
-# Hoodlum Sound
+<h1>Hoodlum Sound</h1>
 
 Code, poetry, and other mischief.
 
